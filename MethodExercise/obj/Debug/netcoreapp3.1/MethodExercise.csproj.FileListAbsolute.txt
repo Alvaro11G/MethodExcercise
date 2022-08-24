@@ -1,0 +1,14 @@
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csproj.AssemblyReference.cache
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfoInputs.cache
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfo.cs
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.exe
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.deps.json
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.json
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.dev.json
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\agarc\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.genruntimeconfig.cache
